@@ -1,0 +1,23 @@
+.card{
+    padding-bottom: 40px;
+    background-color:#f5deb3;
+
+}
+
+
+.btn-card{
+     display: flex;
+     justify-content: center;
+
+
+}
+
+
+.bt-card{
+    padding-left:40px ;
+    padding-right:40px ;
+}
+
+body{
+    background-color: wheat;
+}
